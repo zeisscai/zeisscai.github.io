@@ -26,7 +26,19 @@
 
 仅支持BT/PT，可以配置黑暗模式
 
+### XMeters
 
+[![dism++](https://img.shields.io/badge/APP-任务栏系统监控-blue)](https://entropy6.com/xmeters/)
+
+[![](https://entropy6.com/xmeters/images/carousel-1.png)](https://entropy6.com/xmeters/)
+
+### Dism++ 
+[![dism++](https://img.shields.io/badge/APP-系统高级工具-blue)](https://www.chuyu.me/zh-Hans/)
+
+例如隐藏快捷方式小箭头、隐藏文件管理器的七个文件夹、关闭系统自动更新。
+
+### Shadowsocks-r
+[![ssr](https://img.shields.io/badge/APP-网络工具-ff69b4)](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)
 
 
 ## Mac应用合集

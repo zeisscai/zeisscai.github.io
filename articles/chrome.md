@@ -1,6 +1,8 @@
 # Chrome 专题
 ![writter](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-zwiss%20cai-brightgreen)
 
+![Capture.PNG2.PNG](https://i.loli.net/2020/04/29/6W8Ciwh7ulVSAYy.png)
+
 ## 在用的插件
 ### [ClearURLs](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk)
 
@@ -44,6 +46,8 @@
 
 脚本插件，实现各种神奇功能。
 
+---
+
 ## 在用的脚本
 ### [BilibiliExp](https://greasyfork.org/scripts/393096-bilibiliexp)
 
@@ -80,6 +84,8 @@ RARBG中显示豆瓣信息
 ### 智慧树网课助手
 
 停更
+
+---
 
 ## 密码管理器
 
