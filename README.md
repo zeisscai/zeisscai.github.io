@@ -15,6 +15,8 @@
 
 [BT&PT](articles/BTPT.md)
 
+[Chrome专题]
+
 [家境贫寒装一个办公机](articles/PCbuild2020A.md)
 
 [2019下半年路由器选购](articles/Router2019.md)
