@@ -41,4 +41,4 @@ https://github.com/jagannatharjun/qbt-theme 再配合一个黑暗主题darkstyle
 
 
 ---
-[<返回首页](README.md)
+[<返回首页](/README.md)

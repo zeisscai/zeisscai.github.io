@@ -40,4 +40,4 @@
 [Awesome Windows-en](https://github.com/Awesome-Windows/Awesome)
 
 ---
-[<返回首页](README.md)
+[<返回首页](/README.md)

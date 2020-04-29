@@ -104,4 +104,4 @@ Ultra budget $65 Hackintosh - 2017（油管视频）
 [macOS High Sierra Patcher Tool for Unsupported Macs](http://dosdude1.com/highsierra/)
 
 ---
-[<返回首页](README.md)
+[<返回首页](/README.md)
