@@ -1,5 +1,7 @@
 # 网飞相关
 ![writter](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-zwiss%20cai-brightgreen)
+
+![netflix](https://cdn.shuziyimin.org/blog/blog-01-00-1140x830.png)
 ## 注册与充值
 
 当前网飞资费最便宜的地区是土耳其，大量的外区的注册，也使得对于土耳其的注册增加了本地电话验证。但是如果在使用土耳其节点时，**使用浏览器的无痕浏览**，就可以绕开电话验证。由于没有海外信用卡，通常是使用礼品卡来完成注册，之后也是使用礼品卡充值。
