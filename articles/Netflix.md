@@ -44,6 +44,5 @@ windows 上使用 chrome 或者旧版 Edge 都只能持支持到 720p。
 
 部分安卓机下载安装 Netflix 之后是无法使用的。
 
----
-[<返回首页](/README.md)
+
 
