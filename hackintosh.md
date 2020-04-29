@@ -97,3 +97,6 @@ Ultra budget $65 Hackintosh - 2017（油管视频）
 [macOS安装教程兼小米Pro安装过程记录](https://blog.daliansky.net/MacOS-installation-tutorial-XiaoMi-Pro-installation-process-records.html)
 [Mojave硬件支持列表（持续更新中）](https://blog.daliansky.net/Mojave-Hardware-Support-List.html)
 [macOS High Sierra Patcher Tool for Unsupported Macs](http://dosdude1.com/highsierra/)
+
+---
+[<返回首页](README.md)

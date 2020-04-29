@@ -40,3 +40,5 @@ https://github.com/jagannatharjun/qbt-theme 再配合一个黑暗主题darkstyle
 用Better public tracker list: (92 trackers)就够了，顺便在选项>高级里：勾选“总是向同级的所有tracker汇报”和“总是向所有等级的tracker汇报”
 
 
+---
+[<返回首页](README.md)
