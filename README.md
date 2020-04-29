@@ -11,11 +11,13 @@
 ## 随笔
 [黑苹果系列笔记](articles/hackintosh.md)
 
+[Chrome专题](articles/chrome.md)
+
 [网飞观看指南](articles/Netflix.md)
 
 [BT&PT](articles/BTPT.md)
 
-[Chrome专题]
+
 
 [家境贫寒装一个办公机](articles/PCbuild2020A.md)
 
