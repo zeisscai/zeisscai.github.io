@@ -1,4 +1,4 @@
-# 欢迎
+# 网上冲浪异闻录
 ![writter](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-zwiss%20cai-brightgreen)
 
 在这个啥都没有的地方，会放着我上网冲浪时的一些痕迹。
@@ -21,3 +21,5 @@
 
 [影子宣言（一篇很久以前的科幻短文）](articles/20140628.md)
 
+## 友情链接
+[Dailyio](https://dailyio.me/)
