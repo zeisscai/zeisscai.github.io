@@ -8,23 +8,29 @@
 ## windows应用合集
 ### FluentTerminal
 [![FT](https://img.shields.io/badge/APP-%E6%8E%A7%E5%88%B6%E7%BB%88%E7%AB%AF-blue)](https://github.com/felixse/FluentTerminal/releases)
+![ter.PNG](https://i.loli.net/2020/04/30/cLTMBtJFHR7IGyQ.png)
 
 
 ### Potplayer
 
 [![视频播放器](https://img.shields.io/badge/APP-%E5%85%A8%E8%83%BD%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8-blue)](https://potplayer.daum.net/)
+![pot.PNG](https://i.loli.net/2020/04/30/XELtrzYDgFpMVwU.png)
 
 ### FDM
 
 [![FDM](https://img.shields.io/badge/APP-%E9%80%9A%E7%94%A8%E4%B8%8B%E8%BD%BD%E5%99%A8-blue)](https://www.freedownloadmanager.org/)
+![fdm.PNG](https://i.loli.net/2020/04/30/YGlEIZjON7WTUX8.png)
 
 支持BT，不支持ed2k,带黑暗模式
 
 ### qBittorrent
 
 [![BT](https://img.shields.io/badge/APP-BT%E4%B8%8B%E8%BD%BD%E5%99%A8-blue)](https://www.qbittorrent.org/)
+![qb.PNG](https://i.loli.net/2020/04/30/5ejoZfkJi1RFPqN.png)
 
 仅支持BT/PT，可以配置黑暗模式
+
+
 
 ### XMeters
 
@@ -39,6 +45,7 @@
 
 ### Shadowsocks-r
 [![ssr](https://img.shields.io/badge/APP-网络工具-ff69b4)](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)
+![ssr.PNG](https://i.loli.net/2020/04/30/frFnPWMVYgQIkLG.png)
 
 
 ## Mac应用合集
