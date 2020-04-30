@@ -11,7 +11,9 @@
 ## 随笔
 Origin科学制图
 
-LaTeX
+中文排版规范
+
+Markdown的LaTeX语法
 
 [黑苹果系列笔记](articles/hackintosh.md)
 
