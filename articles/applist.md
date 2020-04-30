@@ -30,7 +30,7 @@
 
 [![dism++](https://img.shields.io/badge/APP-任务栏系统监控-blue)](https://entropy6.com/xmeters/)
 
-[![](https://entropy6.com/xmeters/images/carousel-1.png)](https://entropy6.com/xmeters/)
+[![carousel-1.png](https://i.loli.net/2020/04/30/fNYsZH6IU8GCEvK.png)](https://entropy6.com/xmeters/)
 
 ### Dism++ 
 [![dism++](https://img.shields.io/badge/APP-系统高级工具-blue)](https://www.chuyu.me/zh-Hans/)
