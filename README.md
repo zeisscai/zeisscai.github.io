@@ -1,7 +1,7 @@
 # 网上冲浪异闻录
 ![writter](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-zwiss%20cai-brightgreen)
 
-在这个啥都没有的地方，会放着我上网冲浪时的一些痕迹。
+每周更新一点我上网冲浪时的一些新发现。
 
 * [Windows应用集](articles/applist.md)
 * [网站合集](articles/websites.md)
