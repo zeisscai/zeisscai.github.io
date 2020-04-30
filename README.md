@@ -17,7 +17,7 @@
 
 [BT&PT](articles/BTPT.md)
 
-
+[笔电升级AX200 WiFi6 网卡](articles/AX200.md)
 
 [家境贫寒装一个办公机](articles/PCbuild2020A.md)
 
