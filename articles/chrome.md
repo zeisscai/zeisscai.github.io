@@ -6,7 +6,7 @@
 ## 在用的插件
 ### [ClearURLs](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk)
 
-亮点：清除链接中跟踪识别的部分，可以起到简化网址的效果。但是目前和Bilibili有兼容问题，暂时停用了。
+亮点：清除链接中跟踪识别的部分，可以起到简化网址的效果。曾经和Bilibili有兼容问题，会显示不出评论区。
 
 ### [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
 
