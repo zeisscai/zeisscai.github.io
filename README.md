@@ -9,6 +9,10 @@
 * 我的活跃的社群
 
 ## 随笔
+Origin科学制图
+
+LaTeX
+
 [黑苹果系列笔记](articles/hackintosh.md)
 
 [Chrome专题](articles/chrome.md)
