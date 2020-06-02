@@ -15,6 +15,8 @@ Origin科学制图
 
 Markdown的LaTeX语法
 
+[第二代黑苹果记录](articles/hackintosh2020.md)
+
 [黑苹果系列笔记](articles/hackintosh.md)
 
 [Chrome专题](articles/chrome.md)
