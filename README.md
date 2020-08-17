@@ -4,6 +4,7 @@
 每周更新一点我上网冲浪时的一些新发现。
 
 * [Windows应用集](articles/applist.md)
+* [macOS应用集]
 * [网站合集](articles/websites.md)
 * 其他专题文章
 * 我的活跃的社群
@@ -22,6 +23,8 @@
 [BT&PT](articles/BTPT.md)
 
 ## 网络和路由器专题
+[网络知识-路由器、科学上网、DNS、NAS、电视盒子等](articles/Net.md)
+
 [华硕acrh17刷潘多拉固件（L大珍藏版20.7.9）记录](articles/acrh17pandora.md)
 
 [Chrome专题](articles/chrome.md)
