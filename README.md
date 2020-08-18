@@ -2,8 +2,9 @@
 ![writter](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-zwiss%20cai-brightgreen)
 
 每周更新一点我上网冲浪时的一些新发现。
-
 [专题索引](articles/abc.md)
+
+---
 
 * [Windows应用集](articles/applist.md)
 * [macOS应用集]
