@@ -1,8 +1,29 @@
-# 网上冲浪异闻录
+# 网上冲浪异闻录2.0
 ![writter](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-zwiss%20cai-brightgreen)
 
-每周更新一点我上网冲浪时的一些新发现。
+全新的文章结构！
 
+主要收录了windows、macOS、科学上网、影视娱乐类的信息，供各位参考。
+
+## Windows专题
+*  windows安装：主机和笔记本平台
+*  windows系统激活
+*  windows的初步设置（按照我个人习惯）
+*  windows常用工具类软件
+*  windows下的文件管理
+*  windows笔记本换装硬盘以及系统盘迁移
+
+## macOS专题
+*  黑苹果安装
+*  macOS软件
+
+## 网络专题
+*  科学上网
+*  路由器和软路由
+*  NAS
+
+## 影视专题
+*  资源网站
 ---
 
 * [专题索引](articles/abc.md)
