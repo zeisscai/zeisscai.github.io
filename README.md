@@ -7,7 +7,7 @@
 
 ## Windows
 *  windows安装：主机和笔记本平台
-*  windows系统激活
+*  [windows系统激活](articles/win/winkms.md)
 *  windows的初步设置（按照我个人习惯）
 *  [windows常用工具类软件](articles/applist.md)
 *  windows下的文件管理
