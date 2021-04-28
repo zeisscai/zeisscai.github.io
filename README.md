@@ -5,24 +5,24 @@
 
 主要收录了windows、macOS、科学上网、影视娱乐类的信息，供各位参考。
 
-## Windows专题
+## Windows
 *  windows安装：主机和笔记本平台
 *  windows系统激活
 *  windows的初步设置（按照我个人习惯）
-*  windows常用工具类软件
+*  [windows常用工具类软件](articles/applist.md)
 *  windows下的文件管理
 *  windows笔记本换装硬盘以及系统盘迁移
 
-## macOS专题
+## macOS
 *  黑苹果安装
 *  macOS软件
 
-## 网络专题
+## 网络
 *  科学上网
 *  路由器和软路由
 *  NAS
 
-## 影视专题
+## 影视
 *  资源网站
 ---
 
