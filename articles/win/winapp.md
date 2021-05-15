@@ -3,12 +3,16 @@
 
 ## 7zip
 解压缩软件。简单轻量，高效的解压缩软件。
-[官网地址](https://www.7-zip.org/download.html)
+[官网下载地址](https://www.7-zip.org/download.html)
 
 ## potplay
 视频播放软件。
-[官网地址](https://potplayer.daum.net/)
+[官网下载地址](https://potplayer.daum.net/)
 
 ## FDM
 BT下载软件。唯一缺点是不支持ed2k链接。但是有黑暗模式。
-[官网地址](https://www.freedownloadmanager.org/)
+[官网下载地址](https://www.freedownloadmanager.org/)
+
+## qBittorrent
+BT、PT下载软件。玩PT必备。
+[官网下载地址](https://www.qbittorrent.org/download.php)
