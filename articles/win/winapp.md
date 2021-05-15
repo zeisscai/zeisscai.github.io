@@ -16,3 +16,5 @@ BT下载软件。唯一缺点是不支持ed2k链接。但是有黑暗模式。
 ## qBittorrent
 BT、PT下载软件。玩PT必备。
 [官网下载地址](https://www.qbittorrent.org/download.php)
+
+## chrome
