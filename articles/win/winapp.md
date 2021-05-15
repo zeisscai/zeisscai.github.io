@@ -18,3 +18,13 @@ BT、PT下载软件。玩PT必备。
 [官网下载地址](https://www.qbittorrent.org/download.php)
 
 ## chrome
+
+## WizTree
+
+## UltraISO
+
+## Dism++
+
+## XMeters
+
+## AIDA64 Extreme
