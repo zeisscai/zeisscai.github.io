@@ -6,4 +6,15 @@ VPN，虚拟专用网。最早是用于在外网环境下连接到企业、团�
 
 如今，ss的作者被警告已经不再更新，因此由此衍生出了SSR即shadowsocks r。大约在19年后ssr基本已经无法突破墙，目前主流使用的是v2ray，同样的v2ray也是开源软件。当然目前也出现了一些非开源的软件，例如老王，等。
 
-## 
+**总的来说，推荐使用开源软件，再配合一个靠谱的机场来使用。**
+
+## 机场
+目前我在使用的机场是PieCloud，你可以使用我的[邀请链接注册](https://speedpie.net/auth/register?code=55IS)。
+
+
+售价：
+![截屏2021-05-16 下午2.57.41.png](https://i.loli.net/2021/05/16/hi1VQuL3kaB5Ujv.png)
+节点情况：
+![截屏2021-05-16 下午2.58.36.png](https://i.loli.net/2021/05/16/j4tmZExfaoHXq7n.png)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zUKN8gqCLMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
