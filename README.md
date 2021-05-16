@@ -19,7 +19,7 @@
 *  macOS软件
 
 ## 网络
-*  科学上网
+*  [科学上网](articles/net/vpn.md)
 *  路由器和软路由
 *  NAS
 
