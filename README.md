@@ -11,7 +11,7 @@
 *  windows的初步设置（按照我个人习惯）
 *  [windows常用工具类软件](articles/applist.md)
 *  windows下的文件管理
-*  windows笔记本换装硬盘以及系统盘迁移
+*  [windows笔记本换装硬盘以及系统盘迁移](articles/win/winmove.md)
 *  [windows应用](articles/win/winapp.md)
 
 ## macOS
