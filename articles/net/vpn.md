@@ -18,7 +18,7 @@
 
 ## 参考
 [【BIGDONGDONG】#139 “科学上网”节点站那些不为人知的秘密 如何挑选一家靠谱的“机场”丨“机场”线路大剖析](https://www.youtube.com/watch?v=zUKN8gqCLMU)
-
+[Big东东-推荐的节点供应站](https://bigdongdong.gitbook.io/hello-world/)
 
 ## 其他
 VPN，虚拟专用网。最早是用于在外网环境下连接到企业、团体等局域网中的技术（比如出差时访问公司内部服务器的资料），因此这个技术应该是最早用于翻墙的技术。所以直到现在不太了解技术细节的人依然把VPN当作是翻墙。
