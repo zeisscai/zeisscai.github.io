@@ -20,7 +20,7 @@
 
 ## 网络
 *  [科学上网](articles/net/vpn.md)
-*  路由器和软路由
+*  [路由器和软路由](articles/net/router.md)
 *  NAS
 
 ## 影视
