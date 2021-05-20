@@ -24,7 +24,7 @@
 *  NAS
 
 ## 影视
-*  资源网站
+*  [资源网站](articles/movie/website.md)
 
 
 ---
