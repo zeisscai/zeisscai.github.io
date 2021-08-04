@@ -1,7 +1,7 @@
 #EXTINF:-1 ,CCTV-4K
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
 #EXTINF:-1 ,CCTV-1HD
-http://10.0.0.1:9009/rtp/239.45.3.145:5140
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/index.m3u8
 #EXTINF:-1 ,CCTV-2HD
 http://39.134.39.39/TVOD/88888888/224/3221226220/index.m3u8
 #EXTINF:-1 ,CCTV-3HD
@@ -15,7 +15,7 @@ http://39.134.39.39/TVOD/88888888/224/3221226253/index.m3u8
 #EXTINF:-1 ,CCTV-6HD
 http://39.134.39.39/TVOD/88888888/224/3221226226/index.m3u8
 #EXTINF:-1 ,CCTV-7HD
-http://10.0.0.1:9009/rtp/239.45.3.56:5140
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226192/index.m3u8
 #EXTINF:-1 ,CCTV-8HD
 http://39.134.39.39/TVOD/88888888/224/3221226257/index.m3u8
 #EXTINF:-1 ,CCTV-9HD
@@ -29,11 +29,11 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
 #EXTINF:-1 ,CCTV-13HD
 http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/1.m3u8
 #EXTINF:-1 ,CCTV-14HD
-http://10.0.0.1:9009/rtp/239.45.3.23:5140
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226193/index.m3u8
 #EXTINF:-1 ,CCTV-15HD
 http://39.134.39.39/TVOD/88888888/224/3221226234/index.m3u8
 #EXTINF:-1 ,CCTV-17HD
-http://111.20.105.60:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226198/index.m3u8
 #EXTINF:-1 ,北京卫视HD
 http://39.134.66.66/PLTV/88888888/224/3221225678/index.m3u8
 #EXTINF:-1 ,江苏卫视HD
